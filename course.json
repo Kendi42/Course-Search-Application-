@@ -1,0 +1,31 @@
+{"APT": {
+    "name": "Applied Computer Technology",
+    
+    "list": ["APT 1050 Database Systems",
+     "APT 2010 Systems Analysis and Design",
+      "APT 2060 Data Structures & Algorithms",
+      "APT 2080 Introduction to Software Engineering",
+     "APT 3010 Introduction to Artifial Intelligence",
+      "APT 3025 Applied Machine Learning",
+      "APT 3040 Object Oriented Design and Programming",
+     "APT 3060 Mobile Programming",
+      "APT 3090 Cryptography and Network Security",
+      "IST 4035 Advanced Web Design and Applications"
+    ]
+    
+  },
+  "IST": {
+    "name": "Information Systems and Technology",
+    "list": ["IST 2010 Computer Organization & Assembly Programming",
+    "IST 1025 Introduction to Programming",
+     "IST 2045 Introduction to Computer Networks",
+     "IST 2060 Data Structures and Algorithms",
+    "IST 3005 Application of Social Media for Business",
+     "IST 3015 Business Data Analytics",
+     "IST 3040 Digital Lab",
+    "IST 4020 Systems Analysis and Design",
+     "IST 4035 Advanced Web Design and Applications",
+     "IST 4070 Object-Oriented Programming"
+    ]
+  }
+}
