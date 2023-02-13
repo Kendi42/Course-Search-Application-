@@ -14,6 +14,6 @@ This is a lab to display the course information for the School of Science and Te
 <img src="https://github.com/Kendi42/Course-Search-Application-/blob/7fa59b151cd944a6fb3ad996a6f050daa3944e55/landing.png" width="1280" height="720"/>
 
 
-## Course Outline
+## Result Page
 <img src="https://github.com/Kendi42/Course-Search-Application-/blob/7fa59b151cd944a6fb3ad996a6f050daa3944e55/courseview.png" width="1280" height="720"/>
 
